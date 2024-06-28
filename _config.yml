@@ -1,0 +1,32 @@
+# Syntax highlighting
+markdown: kramdown
+kramdown:
+  syntax_highlighter: rogue
+  input: GFM
+
+# Setup
+title: "@rey"
+tagline: Suffering at my own will
+baseurl: ""
+
+# Permalinks
+permalink: pretty
+
+# Assets
+sass:
+  sass_dir: _sass
+  style: compressed
+
+# Directory navigation
+nav:
+  - title: About
+    url: /about
+  - title: Writing
+    url: /archive
+
+# Exclusions
+exclude:
+  - .git
+  - .jekyll-cache
+  - Gemfile
+  - Gemfile.lock

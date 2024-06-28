@@ -1,0 +1,24 @@
+.archive {
+    list-style: none;
+    padding-left: 0;
+    margin-bottom: 3rem;
+  }
+  
+  .archive-item {
+    display: flex;
+    overflow: auto;
+    align-items: baseline;
+  }
+  
+  .archive-date {
+    margin-top: 0;
+    margin-bottom: 0;
+    font-size: 90%;
+    margin-right: 1rem;
+  }
+  
+  .archive-spacer {
+    border-bottom: 0.075rem dotted var(--hr-color);
+    flex: 1;
+    margin: 0 0.25rem;
+  }

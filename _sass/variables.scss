@@ -1,0 +1,81 @@
+:root {
+    --gray-0: #2c2c2e;
+    --gray-1: #3a3a3c;
+    --gray-2: #48484a;
+    --gray-3: #636366;
+    --gray-4: #8e8e93;
+    --gray-5: #aeaeb2;
+    --gray-6: #c7c7cc;
+    --gray-7: #d1d1d6;
+    --gray-8: #e5e5ea;
+    --gray-9: #f2f2f7;
+
+    --red: #ff3b30;
+    --orange: #ff9500;
+    --yellow: #ffcc00;
+    --green: #34c759;
+    --mint: #00c7be;
+    --teal: #30b0c7;
+    --cyan: #32adef;
+    --blue: #007be6;
+    --indigo: #5856d6;
+    --purple: #af52de;
+    --pink: #ff2d54;
+    --brown: #a2845e;
+    --black: #333;
+    --white: #eee;
+
+    --body-color: var(--gray-0);
+    --body-bg: var(--gray-9);
+    --body-font: -apple-system, BlinkMacSystemFont, "Segoe UI", "Helvetica Neue", Arial, sans-serif;
+    --body-font-size: 16px;
+    --body-line-height: 1.5;
+
+    --hr-color: var(--gray-8);
+    --body-strong: var(--gray-1);
+    --blockquote-color: var(--gray-3);
+
+    --link-color: var(--gray-0);
+    --link-hover-color: rgba(44, 44, 46, 0.5);
+
+    --heading-color: var(--gray-1);
+
+    --border-color: var(--gray-5);
+    --border-radius: .25rem;
+
+    --code-font: SFMono-Regular, Menlo, Monaco, Consolas, "Courier New", monospace;
+    --code-bg: var(--gray-8);
+
+    --spacer: 1rem;
+}
+
+@media (prefers-color-scheme: dark) {
+    :root {
+        --red: #ff453a;
+        --orange: #ff9f0a;
+        --yellow: #ffd60a;
+        --green: #30d158;
+        --mint: #63e6e2;
+        --teal: #40c8e0;
+        --cyan: #64d3ff;
+        --blue: #0a84ff;
+        --indigo: #5e5ce6;
+        --purple: #bf5af2;
+        --pink: #ff375f;
+        --brown: #ac8e68;
+
+        --body-color: var(--gray-9);
+        --body-bg: var(--gray-0);
+
+        --hr-color: var(--gray-2);
+        --body-strong: var(--gray-8);
+        --blockquote-color: var(--gray-7);
+
+        --link-color: var(--gray-9);
+        --link-hover-color: rgba(242, 242, 247, 0.5);
+
+        --heading-color: var(--gray-8);
+        
+        --code-bg: var(--gray-1);
+    }
+}

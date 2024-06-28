@@ -1,0 +1,33 @@
+// Code snippets
+
+code,
+pre {
+    font-family: var(--code-font);
+    background-color: var(--code-bg);
+}
+
+code {
+    font-size: 85%;
+    padding: 2px;
+}
+
+pre {
+    display: block;
+    margin-top: 0;
+    margin-bottom: var(--spacer);
+    padding: var(--spacer);
+    overflow: auto;
+    white-space: pre-wrap;
+    word-break: keep-all;
+}
+
+.highlight {
+    margin: var(--spacer);
+    margin-left: 0;
+    margin-right: 0;
+    word-break: keep-all;
+
+    pre {
+        margin-bottom: 0;
+    }
+}

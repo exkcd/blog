@@ -1,0 +1,33 @@
+// Header above content
+
+.masthead {
+    padding-top: var(--spacer);
+    padding-bottom: var(--spacer);
+    margin-bottom: 1.5rem;
+    border-bottom: .125rem solid var(--hr-color);
+}
+
+.masthead-title {
+    margin-bottom: 0;
+
+    a {
+        color: inherit;
+        text-decoration: none;
+    }
+
+    small {
+        font-size: 75%;
+        font-weight: 400;
+        opacity: .5;
+    }
+    
+    .nav {
+        float: right;
+        margin-right: 1rem;
+    }
+
+    .active {
+        font-weight: bold;
+    }
+}
+
