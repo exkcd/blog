@@ -7,7 +7,8 @@ kramdown:
 # Setup
 title: "@rey"
 tagline: Suffering at my own will
-baseurl: "exkcd.github.io"
+url: "exkcd.github.io"
+baseurl: ""
 
 # Permalinks
 permalink: pretty
