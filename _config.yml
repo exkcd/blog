@@ -1,7 +1,7 @@
 # Syntax highlighting
 markdown: kramdown
 kramdown:
-  syntax_highlighter: rogue
+  syntax_highlighter: rouge
   input: GFM
 
 # Setup
