@@ -8,6 +8,15 @@
   margin-right: auto;
 }
 
+footer {
+  position: relative;
+  padding-top: var(--spacer);
+  padding-bottom: var(--spacer);
+  margin: 1.5rem 0;
+  border: 0;
+  border-top: .125rem solid var(--hr-color);
+}
+
 .page,
 .post {
   margin-bottom: 4rem;
