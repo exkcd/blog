@@ -4,7 +4,7 @@
 
 .highlight .k { color: var(--pink) } /* Keyword */
 
-.highlight .l { color: var(--indigo) } /* Literal */
+.highlight .l { color: var(--blue) } /* Literal */
 
 .highlight .n { color: var(--gray-2) } /* Name */
 
@@ -54,15 +54,15 @@
 
 .highlight .w { color: var(--white) } /* Text.Whitespace */
 
-.highlight .mf { color: var(--indigo) } /* Literal.Number.Float */
-.highlight .mh { color: var(--indigo) } /* Literal.Number.Hex */
-.highlight .mi { color: var(--indigo) } /* Literal.Number.Integer */
-.highlight .mo { color: var(--indigo) } /* Literal.Number.Oct */
+.highlight .mf { color: var(--blue) } /* Literal.Number.Float */
+.highlight .mh { color: var(--blue) } /* Literal.Number.Hex */
+.highlight .mi { color: var(--blue) } /* Literal.Number.Integer */
+.highlight .mo { color: var(--blue) } /* Literal.Number.Oct */
 .highlight .sb { color: var(--green) } /* Literal.String.Backtick */
 .highlight .sc { color: var(--green) } /* Literal.String.Char */
 .highlight .sd { color: var(--green) } /* Literal.String.Doc */
 .highlight .s2 { color: var(--green) } /* Literal.String.Double */
-.highlight .se { color: var(--indigo) } /* Literal.String.Escape */
+.highlight .se { color: var(--blue) } /* Literal.String.Escape */
 .highlight .sh { color: var(--green) } /* Literal.String.Heredoc */
 .highlight .si { color: var(--green) } /* Literal.String.Interpol */
 .highlight .sx { color: var(--green) } /* Literal.String.Other */
@@ -71,7 +71,7 @@
 .highlight .ss { color: var(--green) } /* Literal.String.Symbol */
 
 
-.highlight .il { color: var(--indigo) } /* Literal.Number.Integer.Long */
+.highlight .il { color: var(--blue) } /* Literal.Number.Integer.Long */
 
 .highlight .gh { font-weight: bold; } /* Generic Heading & Diff Header */
 .highlight .gu { color: var(--gray-5); } /* Generic.Subheading & Diff Unified/Comment? */
