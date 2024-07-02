@@ -3,18 +3,14 @@ layout: page
 title: About
 ---
 
-```
-{% for trait in site.data.about %}
-  Name: {{ trait.name }}
+Name: Rey
 
-  Age: {{ trait.age }}
-  
-  Height: {{ trait.height }}
-  
-  Weight: {{ trait.weight }}
+Age: A number
 
-  Gender: {{ trait.gender }}
-  
-  Sex: {{ trait.sex }}
-{% endfor %}
-```
+Height: About this tall
+
+Weight: Of suffering? indescribable
+
+Gender: A social construct
+
+Sex: Ew
