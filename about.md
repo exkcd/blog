@@ -13,7 +13,7 @@ I am currently interested in full-stack development with an emphasis on frontend
 
 **Things that I enjoy**: hiking, climbing, yoga, photography, math rock, playing guitar, pondering the meaning of life, taekwondo
 
-<br/>
+<hr>
 
 ## About this site
 

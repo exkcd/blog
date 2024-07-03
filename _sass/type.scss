@@ -62,10 +62,17 @@ dd {
 }
 
 // Misc
-hr {
+footer {
     position: relative;
     margin: 1.5rem 0;
     border: 0;
+    border-top: .125rem solid var(--hr-color);
+}
+
+hr {
+    margin: auto;
+    border: 0;
+    width: 10%;
     border-top: .125rem solid var(--hr-color);
 }
 
