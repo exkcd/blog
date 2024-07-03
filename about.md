@@ -25,4 +25,4 @@ After contemplating the pros and cons of finally settling for a domain name, and
 
 You can take a peek at my GitHub over [here](https://github.com/exkcd) which I use to display my other coding projects such as my [macOS config files](https://github.com/exkcd/config).
 
-For further inquiries, [email me](mailto:reyhstone@gmail.com)! (or click this [link](https://www.youtube.com/watch?v=dQw4w9WgXcQ))
+For further inquiries, at reyhstone at gmail dot com! (or click this [link](https://www.youtube.com/watch?v=dQw4w9WgXcQ))
