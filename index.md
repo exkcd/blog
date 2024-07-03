@@ -11,7 +11,7 @@ have_high_expectations = False
 if have_high_expectations:
     be_disappointed()
 else:
-    wreak_havoc()
+    tolerate_this_human_being()
 
 {% endhighlight %}
 
