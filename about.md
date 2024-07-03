@@ -15,7 +15,7 @@ I am currently interested in full-stack development with an emphasis on frontend
 
 <hr>
 
-## About this site
+## This site
 
 After contemplating the pros and cons of finally settling for a domain name, and figuring out what the heck "Ruby" was, I finally got a single no-frills blog. This site is:
 
