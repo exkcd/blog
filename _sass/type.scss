@@ -44,6 +44,15 @@ ul, ol, dl {
     margin-bottom: var(--spacer);
 }
 
+li {
+    padding-inline-start: 1ch;
+    margin-bottom: 0.25rem;
+    list-style-type: "—";
+}
+li::marker {
+    color: var(--gray-5);
+}
+
 dt {
     font-weight: bold;
 }

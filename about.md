@@ -3,14 +3,26 @@ layout: page
 title: About
 ---
 
-Name: Rey
+Hey, I'm Rey. I am currently studying computer science and philosophy at the University of Colorado in Boulder, Colorado.
 
-Age: A number
+I am currently intrested in full-stack devlopment with an emphasis on frontend because backend makes my head hurt. I am also interested in artificial intelligence, and more specifically the large language models and how the bridge between linguistics interacts with machine learning.
 
-Height: About this tall
+<br/>
 
-Weight: Of suffering? indescribable
+**Things that pique my interest**: drawing (specifically hands), web development, UX/UI design, existentialism, why you put shampoo in first and then conditioner
 
-Gender: A social construct
+**Things that I enjoy**: hiking, climbing, yoga, photography, math rock, playing guitar, pondering the meaning of life, taekwondo
 
-Sex: Ew
+<br/>
+
+## About this site
+
+After contemplating the pros and cons of finally settling for a domain name, and figuring out what the heck "Ruby" was, I finally got a single no-frills blog. This site is:
+
+- Built on [Jekyll](https://jekyllrb.com/) an open source static site generator
+- Coded using [Visual Studio Code](https://code.visualstudio.com/)
+- Hosted on [GitHub Pages](https://pages.github.com/)
+
+You can take a peek at my GitHub over [here](https://github.com/exkcd) which I use to display my other coding projects such as my [macOS config files](https://github.com/exkcd/config).
+
+For further inquiries, [email me](mailto:reyhstone@gmail.com)! (or click this [link](https://www.youtube.com/watch?v=dQw4w9WgXcQ))
