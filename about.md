@@ -5,7 +5,7 @@ title: About
 
 Hey, I'm Rey. I am currently studying computer science and philosophy at the University of Colorado in Boulder, Colorado.
 
-I am currently intrested in full-stack devlopment with an emphasis on frontend because backend makes my head hurt. I am also interested in artificial intelligence, and more specifically the large language models and how the bridge between linguistics interacts with machine learning.
+I am currently interested in full-stack development with an emphasis on frontend because backend makes my head hurt. I am also interested in artificial intelligence, and more specifically the large language models and how the bridge between linguistics interacts with machine learning.
 
 <br/>
 
