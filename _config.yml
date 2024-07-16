@@ -22,8 +22,15 @@ sass:
 nav:
   - title: About
     url: /about
+  - title: Portfolio
+    url: /portfolio
   - title: Writing
     url: /archive
+
+
+# For my photography photos
+include:
+  - "_img"
 
 # Exclusions
 exclude:

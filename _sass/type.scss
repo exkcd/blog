@@ -1,96 +1,103 @@
 // Typography
 
 // Headers
-h1, h2, h3, h4, h5, h6 {
-    margin-bottom: 0.5rem;
-    font-weight: 600;
-    line-height: 1.25;
-    color: var(--heading-color);
-    font-weight: bold;
-    text-rendering: optimizeLegibility;
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  margin-bottom: 0.5rem;
+  font-weight: 600;
+  line-height: 1.25;
+  color: var(--heading-color);
+  font-weight: bold;
+  text-rendering: optimizeLegibility;
 }
 
 h1 {
-    font-size: 2rem;
+  font-size: 2rem;
 }
 
 h2 {
-    font-size: 1.5rem;
+  font-size: 1.5rem;
 }
 
 h3 {
-    font-size: 1.25rem;
+  font-size: 1.25rem;
 }
 
 h4,
 h5,
 h6 {
-    margin-top: var(--spacer);
-    font-size: 1rem;
+  margin-top: var(--spacer);
+  font-size: 1rem;
 }
 
 // Body text
 p {
-    margin-top: 0;
-    margin-bottom: var(--spacer);
+  margin-top: 0;
+  margin-bottom: var(--spacer);
 }
 
 strong {
-    color: var(--body-strong);
+  color: var(--body-strong);
 }
 
-ul, ol, dl {
-    margin-top: 0;
-    margin-bottom: var(--spacer);
+ul,
+ol,
+dl {
+  margin-top: 0;
+  margin-bottom: var(--spacer);
 }
 
 li {
-    padding-inline-start: 1ch;
-    margin-bottom: 0.25rem;
-    list-style-type: "—";
+  padding-inline-start: 1ch;
+  margin-bottom: 0.25rem;
+  list-style-type: "—";
 }
 li::marker {
-    color: var(--gray-5);
+  color: var(--gray-5);
 }
 
 dt {
-    font-weight: bold;
+  font-weight: bold;
 }
 
 dd {
-    margin-bottom: .5rem;
+  margin-bottom: 0.5rem;
 }
 
 // Misc
 footer {
-    position: relative;
-    margin: 1.5rem 0;
-    border: 0;
-    border-top: .125rem solid var(--hr-color);
+  position: relative;
+  margin: 1.5rem 0;
+  border: 0;
+  border-top: 0.125rem solid var(--hr-color);
 }
 
 hr {
-    margin: 0 auto;
-    border: 0;
-    width: 5rem;
-    border-top: .125rem solid var(--hr-color);
+  margin: 0 auto;
+  border: 0;
+  width: 5rem;
+  border-top: 0.125rem solid var(--hr-color);
 }
 
 abbr {
-    font-size: 85%;
-    font-weight: bold;
-    color: var(--blockquote-color);
-    text-transform: uppercase;
+  font-size: 85%;
+  font-weight: bold;
+  color: var(--blockquote-color);
+  text-transform: uppercase;
 }
 
 // Quotes
 blockquote {
-    padding: .5rem 1rem;
-    margin: .8rem 0;
-    color: var(--blockquote-color);
-    border-left: .25rem solid var(--border-color);
+  padding: 0.5rem 1rem;
+  margin: 0.8rem 0;
+  color: var(--blockquote-color);
+  border-left: 0.25rem solid var(--border-color);
 }
 
 blockquote p:last-child {
-    margin-bottom: 0;
+  margin-bottom: 0;
 }
