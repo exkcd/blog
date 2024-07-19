@@ -5,4 +5,7 @@
     <title>
         {{ site.title }}
     </title>
+    {% if site.tags != "" %}
+    {% include collecttags.html %}
+    {% endif %}
 </head>

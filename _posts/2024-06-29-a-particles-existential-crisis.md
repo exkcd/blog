@@ -2,6 +2,7 @@
 layout: post
 title: "A particle's existential crisis"
 permalink: a-particles-existential-crisis
+tags: philosophy existentialism
 ---
 
 I think one of the coolest things I admire about quantum physics is the idea of a quantum superposition. Now I’m not a physicist, nor do I really understand most of it, but I’ll do my best to explain it.
