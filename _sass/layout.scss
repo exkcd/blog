@@ -1,22 +1,12 @@
 // Layout
 
 .container {
-  max-width: 65rem;
+  max-width: 50rem;
   padding-left: 1.5rem;
   padding-right: 1.5rem;
   margin-left: auto;
   margin-right: auto;
 }
-
-footer {
-  position: relative;
-  padding-top: var(--spacer);
-  padding-bottom: var(--spacer);
-  margin: 1.5rem 0;
-  border: 0;
-  border-top: .125rem solid var(--hr-color);
-}
-
 .page,
 .post {
   margin-bottom: 4rem;

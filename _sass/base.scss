@@ -13,10 +13,15 @@ html, body {
 
 body {
   font-family: var(--body-font);
-  font-size: var(--font-size);
+  font-size: var(--body-font-size);
   line-height: var(--line-height);
   color: var(--body-color);
   background-color: var(--body-bg);
+}
+
+main {
+  margin-top: 2rem;
+  margin-bottom: 4rem;
 }
 
 a {

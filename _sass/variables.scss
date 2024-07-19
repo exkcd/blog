@@ -32,7 +32,7 @@
     --body-color: var(--gray-1);
     --body-bg: var(--white);
 
-    --hr-color: var(--gray-9);
+    --hr-color: var(--gray-8);
     --body-strong: var(--gray-0);
     --blockquote-color: var(--gray-3);
 
@@ -48,6 +48,7 @@
     --code-bg: var(--gray-9);
 
     --spacer: 1rem;
+    --spacer-2: calc(var(--spacer) * 1.5);
 }
 
 @media (prefers-color-scheme: dark) {

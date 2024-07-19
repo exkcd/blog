@@ -1,6 +1,5 @@
 ---
 layout: page
-title: Portfolio
 ---
 
 {% for image in site.static_files %}

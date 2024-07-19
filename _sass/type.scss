@@ -71,8 +71,12 @@ dd {
 // Misc
 footer {
   position: relative;
+  padding-top: var(--spacer);
+  padding-bottom: var(--spacer);
   margin: 1.5rem 0;
   border: 0;
+  font-weight: lighter;
+  width: 5rem;
   border-top: 0.125rem solid var(--hr-color);
 }
 
