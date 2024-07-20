@@ -27,6 +27,11 @@ nav:
   - title: Writing
     url: /archive
 
+# Tag plugin
+tag_page_layout: tagpage
+tag_page_dir: tag
+tag_permalink_style: pretty
+# ignored_tags: (if I want any tags to not be included in the indexing)
 
 # For my photography photos
 include:
