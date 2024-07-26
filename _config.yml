@@ -8,7 +8,6 @@ kramdown:
 title: "@rey"
 tagline: Suffering at my own will
 url: "exkcd.github.io/website"
-baseurl: ""
 
 # Permalinks
 permalink: pretty
