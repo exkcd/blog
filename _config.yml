@@ -8,7 +8,7 @@ kramdown:
 # When making this a subdomain, refer to past past jekyll versions please
 title: "@rey"
 tagline: Suffering at my own will
-url: "https://exkcd.github.io/blog"
+url: "https://exkcd.github.io"
 baseurl: "/blog"
 
 # Permalinks
