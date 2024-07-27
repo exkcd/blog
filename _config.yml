@@ -22,11 +22,11 @@ sass:
 # Directory navigation
 nav:
   - title: About
-    url: blog/about
+    url: /about
   - title: Portfolio
-    url: blog/portfolio
+    url: /portfolio
   - title: Writing
-    url: blog/archive
+    url: /archive
 
 # Tag plugin
 tag_page_layout: tagpage
